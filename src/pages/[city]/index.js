@@ -45,7 +45,7 @@ const City = ({ homepageData }) => {
                         </div>
                     </div>
                     <Marquee></Marquee>
-                    {/* <div className="collection-section">
+                    <div className="collection-section">
                         <div className="collection-container">
                             <h2>Best Collections</h2>
                             <div className="collections">
@@ -71,7 +71,7 @@ const City = ({ homepageData }) => {
 
                             </div>
                         </div>
-                    </div> */}
+                    </div>
                     <div className="product-section">
                         <div className="product-container">
                             <div className="product-header">
@@ -95,10 +95,7 @@ const City = ({ homepageData }) => {
                             </div>
                         </div>
                     </div>
-                    {/* <div className="products-banner">
-                        <img src="/assets/images/offer-banner.webp" alt="" />
-                    </div> */}
-                    {/* <div className="product-section">
+                    <div className="product-section">
                         <div className="product-container">
                             <div className="product-header">
                                 <h2>Best Selling Cakes</h2>
@@ -120,11 +117,8 @@ const City = ({ homepageData }) => {
                                 })}
                             </div>
                         </div>
-                    </div> */}
-                    {/* <div className="products-banner">
-                        <img src="/assets/images/offer-banner.webp" alt="" />
-                    </div> */}
-                    {/* <div className="product-section">
+                    </div>
+                    <div className="product-section">
                         <div className="product-container">
                             <div className="product-header">
                                 <h2>Best Selling Gifts</h2>
@@ -146,7 +140,7 @@ const City = ({ homepageData }) => {
                                 })}
                             </div>
                         </div>
-                    </div> */}
+                    </div>
                 </div>
                 <Footer></Footer>
             </div>
